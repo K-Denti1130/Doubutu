@@ -8,6 +8,7 @@ void setup() {
   komaList = new KomaList();
 }
 
+
 void draw() {
   board.draw();
   komaList.draw();
